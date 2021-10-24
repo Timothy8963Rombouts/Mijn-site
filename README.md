@@ -20,3 +20,12 @@ Hallo iedereen ik ben Timothy Rombouts en 21 jaar oud. Mijn hobby's zijn gamen e
 Ik woon nu hier in Antwerpen over het muesum van schone kunsten. 
 Als je al mijn ervaringen wilt zien en waar ik op school zat.<a href="CV.html">CV</a>
 klik dan op deze link.
+</p>
+<BR><BR>
+<h3>
+Mijn hobby's
+</h3>
+<p>Ik doe vooral in mijn vrije tijd gamen en fitness(alle ik probeer;)). Bij basic-fit is mijn routine altijd eerst kracht
+training en dan pas cardio. Ik doe dat vooral om fit te blijven en niet lui te worden. Wat tijdens de Corona gebeurt is door 
+de sluitingen. Van games speel ik vooral cinematic en shooters zoals call of duty (zombies) en soms minecraft. Ik kijk ook graag films vooral actie/survival.</p>
+<BR><BR>
