@@ -29,3 +29,11 @@ Mijn hobby's
 training en dan pas cardio. Ik doe dat vooral om fit te blijven en niet lui te worden. Wat tijdens de Corona gebeurt is door 
 de sluitingen. Van games speel ik vooral cinematic en shooters zoals call of duty (zombies) en soms minecraft. Ik kijk ook graag films vooral actie/survival.</p>
 <BR><BR>
+<h3> Mijn huisdieren</h3>
+<p>Ik heb 2 pony's Milina en Chipcie en 9 kippen die veel eiren leggen.</p>
+
+<h3>Projecten</h3>
+<p>Mijn doelen voor dit jaar.<a href="Projecten.html">Projecten</a>
+</main>
+</body>
+</html>
